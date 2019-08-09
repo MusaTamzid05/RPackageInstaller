@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565359936089.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2799270245",
+    "id" : "872B0B8F",
+    "lastKnownWriteTime" : 1565360053,
+    "last_content_update" : 1565360053060,
+    "path" : "~/r_pro/packges/gitPackInstaller/R/clone_from_git.R",
+    "project_path" : "R/clone_from_git.R",
+    "properties" : {
+        "cursorPosition" : "6,19",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
